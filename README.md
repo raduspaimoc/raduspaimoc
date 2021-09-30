@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with unity, flutter projects.
 - 💬 Ask me about apps, open source, data science, startups
 - 📫 How to reach me: raduspaimoc@gmail.com
-- ⚡ Fun fact: In a constant dilema between data science ans software engineering.
+- ⚡ Fun fact: In a constant dilema between data science and software engineering.
 
 
 ### My Stats
