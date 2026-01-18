@@ -6,9 +6,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on clinical data science projects.
-- 🌱 I’m currently learning pyspark.
-- 👯 I’m looking to collaborate on new tech projects.
-- 🤔 I’m looking for help with unity, flutter projects.
 - 💬 Ask me about apps, open source, data science, startups
 - 📫 How to reach me: raduspaimoc@gmail.com
 - ⚡ Fun fact: In a constant dilema between data science and software engineering.
